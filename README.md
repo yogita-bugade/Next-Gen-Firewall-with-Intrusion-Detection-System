@@ -20,7 +20,8 @@
 - <b>Systemd:</b> System and service manager for Linux.Used to enable and start Iptables service.
 
 
-<h2>Description</h2> Follow this step-by-step process to build and configure a network firewall with an integrated IDS to safeguard a Linux system hosting essential services:
+<h2>Description</h2> 
+<p>Follow this step-by-step process to build and configure a network firewall with an integrated IDS to safeguard a Linux system hosting essential services:</p>
 
 <b>1. NGFW Implementation: Iptables</b> <br />
 - Install Iptables on the Linux system.
